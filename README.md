@@ -1,0 +1,1 @@
+Afegit fitxer README
